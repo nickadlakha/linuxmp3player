@@ -1,0 +1,11 @@
+/* player.c written by Nicklesh Adlakha (nicklesh.adlakha@gmail.com) */
+
+/*
+Mpeg Layer-1,2,3 audio decoder
+ * ------------------------------
+ * copyright (c) 1995,1996,1997 by Michael Hipp
+*/
+
+/*
+
+/* ALSA - www.alsa-project.org */
